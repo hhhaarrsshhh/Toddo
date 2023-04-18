@@ -1,4 +1,7 @@
 # Toddo
+
+#install node modukes with command
+npm install node
 # Open Terminal and run 
 npm run dev
 After that follow the local host link to open the project
